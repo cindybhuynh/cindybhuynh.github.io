@@ -52,10 +52,10 @@ navbar-links:
 social-network-links:
   email: "cindybhuynh55@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: daattali
-  youtube: "@daattali"
-  whatsapp: 15551212
-  linkedin: daattali
+  github: cindybhuynh
+#  youtube: "@daattali"
+#  whatsapp: 15551212
+  linkedin: cindybaohuynh
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  xing: yourname
