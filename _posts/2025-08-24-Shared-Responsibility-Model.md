@@ -7,7 +7,7 @@ The Amazon Web Services (AWS) shared responsibility model is a concept that allo
 
 A simple differentiation between the responsibilities is that AWS protects the security **of** the cloud and the customer protects the security **in** the cloud.
 
-Here's a diagram that shows the difference between the AWS and customer's responsibility:
+Here's a diagram that shows the difference between the AWS and the customer's responsibility:
 ![Diagram showing the difference between AWS and customer's responsibility](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/security-identity-compliance/compliance/approved/images/7a404923-5572-409c-b30e-6d44706bcd89.4ae6daa1c586799e6826be45e73950fc180a0e8c.jpeg)
 
 ## Home Security Analogy
