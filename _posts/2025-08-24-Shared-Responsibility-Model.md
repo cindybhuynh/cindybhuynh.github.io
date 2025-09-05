@@ -7,12 +7,12 @@ The Amazon Web Services (AWS) shared responsibility model is a concept that allo
 
 A simple differentiation between the responsibilities is that AWS protects the security **of** the cloud and the customer protects the security **in** the cloud.
 
-Here's a diagram that shows the difference between the AWS and the customer's responsibility:
+Here's a diagram that shows the difference between AWS and the customer's responsibility:
 ![Diagram showing the difference between AWS and customer's responsibility](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/security-identity-compliance/compliance/approved/images/7a404923-5572-409c-b30e-6d44706bcd89.4ae6daa1c586799e6826be45e73950fc180a0e8c.jpeg)
 
 ## Home Security Analogy
 One way to think about the difference in responsibilities is with a home security analogy.
-The builder is AWS and the homeowner is the customer:
+The builder is AWS, and the homeowner is the customer:
 * The builder ensures that the house is well built and that the door lock works properly.
 * The homeowner needs to remember to lock the door each time it is used.
 
@@ -20,7 +20,7 @@ Similarly, AWS provides the hardware and the data centers to store the customer'
 But the customer needs to protect the security with an encryption key.
 
 ## AWS Responsibility in the Cloud
-AWS is responsible for the physical layer of the cloud including but not limited to:
+AWS is responsible for the physical layer of the cloud, including but not limited to:
 * Hardware
 * AWS Global Infrastructure
 * Storage
@@ -35,17 +35,17 @@ Customers are responsible for managing data and encryption. They can choose who 
 
 How much data should the customer give users and workers access to? This depends on the type of application and whether data needs to be private. 
 
-For workers and people who require access to the data to do their job the customer should use AWS Identity and Access Management (IAM) tools.
+For workers and people who require access to the data to do their job, the customer should use AWS Identity and Access Management (IAM) tools.
 
 ### IAM Tools
 IAM tools are used to secure data and manage workforce permissions. 
-With IAM tools the customer can:
+With IAM tools, the customer can:
 * Set and manage detailed permissions
 * Manage workload identities across AWS accounts
 * Use temporary security credentials to access AWS resources
 * Analyze access history and verify users
 
-With IAM tools the customer and fine-tune their security to ensure proper data encryption. The customer may need to secure other points of access such as the operating system (OS), depending on the AWS Cloud services used. 
+With IAM tools the customer and fine-tune their security to ensure proper data encryption. The customer may need to secure other points of access, such as the operating system (OS), depending on the AWS Cloud services used. 
 
 The customer can shift their focus to implementing new ideas and improving their application without worrying about the security of the hardware of the AWS cloud.
 
