@@ -30,6 +30,8 @@ What if a computing task is limited by the Central Processing Unit (CPU)?
 
 Compute optimized EC2 instances have more compute power. They are ideal for CPU-bound applications that require high-performance processors. 
 
+Here are the other EC2 instance types: memory optimized, accelerated computing, storage optimized, and HPC optimized.
+
 ## More Resources
 Below are some more resources to learn about Amazon EC2 and spot instances:
 
