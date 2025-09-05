@@ -15,6 +15,10 @@ EC2 is valuable because it is:
 
 With EC2, customers can easily utilize AWS data centers and servers. The customer just needs to request the EC2 instances as needed.
 
+## EC2 Use Cases
+Here's a diagram the shows the main use cases of Amazon EC2:
+![Diagram showing the four main use cases of Amazon EC2](file:///Users/cindyhuynh/Downloads/AWS%20EC2%20Use%20Cases.pdf)
+
 ## AWS Instance Types
 AWS instance types are configurations of virtual servers consisting of a combination of resources. 
 There are different categories of instance types that vary depending on the specific combination of resources required.
