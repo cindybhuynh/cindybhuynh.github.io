@@ -37,4 +37,4 @@ Below are some more resources to learn about Amazon EC2:
 
 [AWS - Amazon EC2 Instance Types](https://aws.amazon.com/ec2/instance-types/)
 
-
+[nOps - Understanding EC2 Spot Instances](https://www.nops.io/blog/ec2-spot-instances/)
