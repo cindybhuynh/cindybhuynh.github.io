@@ -29,6 +29,8 @@ Compute optimized EC2 instances have more compute power. They are ideal for CPU-
 ## More Resources
 Below are some more resources to learn about Amazon EC2:
 
+[AWS - Amazon EC2](https://aws.amazon.com/ec2/)
+
 [AWS - Amazon EC2 Instance Types](https://aws.amazon.com/ec2/instance-types/)
 
 
