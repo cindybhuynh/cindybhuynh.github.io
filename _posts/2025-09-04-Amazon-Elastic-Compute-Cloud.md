@@ -17,7 +17,7 @@ With EC2, customers can easily utilize AWS data centers and servers. The custome
 
 ## EC2 Use Cases
 Here's a diagram the shows the main use cases of Amazon EC2:
-![Diagram showing the four main use cases of Amazon EC2](file:///Users/cindyhuynh/Downloads/AWS%20EC2%20Use%20Cases.pdf)
+![Diagram showing the main use cases of Amazon EC2](https://www.nops.io/wp-content/uploads/2022/12/When-to-Use-AWS-Spot-Instances-1024x536.jpg)
 
 ## AWS Instance Types
 AWS instance types are configurations of virtual servers consisting of a combination of resources. 
