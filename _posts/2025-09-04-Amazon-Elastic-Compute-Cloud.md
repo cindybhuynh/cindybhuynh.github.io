@@ -33,7 +33,7 @@ Compute optimized EC2 instances have more compute power. They are ideal for CPU-
 These are the other EC2 instance types: memory optimized, accelerated computing, storage optimized, and HPC optimized.
 
 ## More Resources
-Below are some more resources to learn about Amazon EC2 and spot instances:
+Below are some resources to learn more about Amazon EC2 and spot instances:
 
 [AWS - Amazon EC2](https://aws.amazon.com/ec2/)
 
