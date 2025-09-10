@@ -50,7 +50,7 @@ With IAM tools the customer and fine-tune their security to ensure proper data e
 The customer can shift their focus to implementing new ideas and improving their application without worrying about the security of the hardware of the AWS cloud.
 
 ## More Resources
-Below are some more resources to learn about the shared responsibility model and IAM tools:
+Below are some resources to learn more about the shared responsibility model and IAM tools:
 
 [AWS - Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
