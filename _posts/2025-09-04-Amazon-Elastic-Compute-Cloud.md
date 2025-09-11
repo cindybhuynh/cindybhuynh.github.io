@@ -39,4 +39,4 @@ Below are some resources to learn more about Amazon EC2 and spot instances:
 
 [AWS - Amazon EC2 Instance Types](https://aws.amazon.com/ec2/instance-types/)
 
-[nOps - Understanding EC2 Spot Instances](https://www.nops.io/blog/ec2-spot-instances/)
+[AWS - Amazon EC2 Spot Instances](https://aws.amazon.com/ec2/spot/)
